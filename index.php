@@ -1,0 +1,2 @@
+<?php
+hearder('location: public/');
